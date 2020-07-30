@@ -1,5 +1,3 @@
-class TicTacToe 
-
 class TicTacToe
 
   WIN_COMBINATIONS = [
